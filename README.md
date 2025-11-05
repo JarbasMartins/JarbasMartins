@@ -58,16 +58,16 @@ Me chamo Jarbas Martins, tenho 20 anos e sou natural de Minas Gerais. Atualmente
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Github" 
+    title="Github"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
