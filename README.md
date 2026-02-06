@@ -1,6 +1,6 @@
 # Jarbas Martins
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Jarbas Martins, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou uma pessoa dedicada, com grande interesse em tecnologia, sempre em busca de aprendizado contínuo e novas experiências que contribuam para meu desenvolvimento pessoal e profissional.
 
